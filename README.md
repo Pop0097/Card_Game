@@ -1,5 +1,5 @@
 # Card_Game
-This project builds on Simple_Card_Game by using OOP to create the card game. 
+This project builds on Simple_Card_Game by applying OOP. 
 
 Users can choose to play BlackJack against a dealer. The program includes a feature where the Dealer only picks up a card if the probability of busting is below 50%. This makes the game appear more realistic. 
 
