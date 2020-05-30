@@ -7,4 +7,4 @@ Two players can also play together in a game called GET THE HIGHEST HAND. In the
 
 Why did I make this project? I recently learned OOP with C++ and wanted to practice it by making a card game program. 
 
-How does the program work? There are 52 Card objects, each representing one card in a deck of cards, which are stored in an array that is a part of the DeckOfCards object. The Dealer object, which is created in Main.cpp when the game starts, accesses the DeckOfCards object in order to deal cards. The Dealer is the one who classifies hands and determines the winner of each game. 
+How does the program work? There are 52 Card objects, each representing one card in a deck of cards, which are stored in an array that is a part of the DeckOfCards object. The Dealer object, which is created in main.cpp when the game starts, accesses the DeckOfCards object in order to deal cards. The Dealer is the one who classifies hands and determines the winner of each game. 
